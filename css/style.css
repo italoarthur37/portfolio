@@ -56,6 +56,9 @@ section{
     font-weight: 600;
     cursor: default;
 }
+.logo:hover {
+    cursor: pointer;
+}
 
 .navbar a{
     font-size: 1.7rem;
